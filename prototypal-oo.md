@@ -23,7 +23,14 @@ _Eric Elliott_
 
 -------------------------------------
 
-## "In the old days..."
+## Before JavaScript
+
+* BASIC
+* Assembly Language
+* Pascal
+* Delphi
+* C / C++
+* Java
 
 -------------------------------------
 
@@ -40,6 +47,19 @@ _Eric Elliott_
 -------------------------------------
 
 ![Facepalm](bear-facepalm.jpg)
+
+-------------------------------------
+
+## But I couldn't go back...
+
+-------------------------------------
+
+## JavaScript has something _important_
+## that other languages lack
+
+-------------------------------------
+
+# Freedom
 
 -------------------------------------
 
@@ -102,13 +122,20 @@ Why is that?
 
 -------------------------------------
 
-## JavaScript naturally handles OO with none of these problems
+For years I built apps in JavaScript,
+forgetting that these problems ever existed...
 
 -------------------------------------
 
-## There's no Class in jQuery
+## The golden age of JavaScript
 
-* But there is `$.extend()`
+* jQuery
+* AJAX
+* The Module Pattern
+
+-------------------------------------
+
+## Until one day...
 
 -------------------------------------
 
@@ -117,6 +144,16 @@ Why is that?
 * Wonderful separation of concerns
 * Elegant and minimal
 * Painful to detangle when Backbone inheritance is abused
+
+-------------------------------------
+
+## JavaScript naturally handles OO with none of these problems
+
+-------------------------------------
+
+## There's no Class in jQuery
+
+* But there is `$.extend()`
 
 -------------------------------------
 
@@ -284,18 +321,18 @@ george.set('name', 'Simon'); // name Simon
 
 -------------------------------------
 
+## Problem
+
+Lots of hoop-jumping to use all these features together.
+
+-------------------------------------
+
 ## Use factory functions
 
 * Like constructors, but you don't need `new` or `this`.
 * Mix and match all three types of prototypes
 * Use `.call()` and `.apply()` to swap out source prototypes
 at instantiation time.
-
--------------------------------------
-
-## Problem
-
-Lots of hoop-jumping to use all these features together.
 
 -------------------------------------
 

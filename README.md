@@ -17,6 +17,17 @@ Start the server:
 ```
 $ cd fluent-prototypal-oo
 $ npm install
+```
+
+If you don't have grunt:
+
+```
+$ npm install -g grunt-cli
+```
+
+Start the server:
+
+```
 $ grunt serve
 ```
 

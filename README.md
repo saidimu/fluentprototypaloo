@@ -12,7 +12,7 @@ Clone the repo:
 $ git clone git://github.com/dilvie/fluent-prototypal-oo.git
 ```
 
-Start the server:
+Install dependencies:
 
 ```
 $ cd fluent-prototypal-oo

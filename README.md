@@ -32,3 +32,6 @@ $ grunt serve
 ```
 
 [View the slideshow](http://localhost:8000)
+
+
+[Sketchnotes](http://instagram.com/p/Z6ocvmRJSf/) by [rudy](http://twitter.com/rudy)

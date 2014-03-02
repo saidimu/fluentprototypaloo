@@ -5,8 +5,8 @@ Classical Inheritance is Obsolete: How to Think in Prototypal OO
 
 For the O'Reilly Fluent Conference, 2013
 
-[Watch the talk (video)](http://ericleads.com/2013/06/classical-inheritance-is-obsolete-how-to-think-in-prototypal-oo/)
-[View the slideshow](http://slidedeck.io/dilvie/fluent-prototypal-oo)
+* [Watch the talk (video)](http://ericleads.com/2013/06/classical-inheritance-is-obsolete-how-to-think-in-prototypal-oo/)
+* [View the slideshow](http://slidedeck.io/dilvie/fluent-prototypal-oo)
 
 
 ---
